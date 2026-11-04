@@ -4,7 +4,7 @@ Software engineer working on backend systems, full-stack apps and LLM tooling. 2
 
 Based in Canton, Michigan · US citizen · open to software, AI and application-security engineering roles (remote or Detroit metro).
 
-[LinkedIn](https://www.linkedin.com/in/aashir-adnan-69521b253) · [Email](mailto:aashiradnan99@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aashir-adnan-69521b253) · [Email](mailto:aashiradnan99@gmail.com) ·[Portfolio](https://aashiradnan.vercel.app/)
 
 ## Selected work
 
