@@ -1,15 +1,26 @@
-# 💫 About Me:
-- 👀 I’m currently working on both passion projects and projects dedicated to me @ Granjur Tech<br>- 🌱 I’m currently learning everything that has to do with game and back-end development<br>- 💞️ I’m looking to collaborate on whatever piques my interest and seems like a challenge<br>- 😄 Ask me about: Anything Persona or Back-End Dev related<br><br><br>
+# Aashir Adnan
 
+Software engineer working on backend systems, full-stack apps and LLM tooling. 2026 Computer Science graduate (FAST-NUCES) with two years at Granjur Technologies, where I was backend architect of the UBS framework and built the AI-agent tooling around it.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihavethisthingwithsatire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashir-adnan-69521b253) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aash362)[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/conqueeftadorplays) 
+Based in Canton, Michigan · US citizen · open to software, AI and application-security engineering roles (remote or Detroit metro).
 
+[LinkedIn](https://www.linkedin.com/in/aashir-adnan-69521b253) · [Email](mailto:aashiradnan99@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aashir-Adnan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aashir-Adnan&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashir-Adnan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Selected work
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**IO**](https://github.com/Aashir-Adnan/IO) | Local-first AI assistant that runs entirely on-device. The LLM handles routing, extraction and phrasing; Python owns SQL, dates and execution. Voice I/O, file indexing, desktop app. | Python, FastAPI, PostgreSQL, Ollama, Alembic, pytest |
+| [**ubs-framework-docs**](https://github.com/Aashir-Adnan/ubs-framework-docs) | Design write-up and runnable demo of UBS, a configuration-driven Node.js platform: endpoints declared as data, one middleware pipeline for auth, permissions, validation and multi-tenant scoping. | Node.js, tests, CI |
+| [**devhouse-discord-bot**](https://github.com/Aashir-Adnan/devhouse-discord-bot) | Operations bot for a software team's Discord: OTP verification, role-based access, ticket channels, meetings. Token-free demo included. | Node.js, discord.js, tests, CI |
+| [**Monitor_Server**](https://github.com/Aashir-Adnan/Monitor_Server) | Scheduled health checks for a host and its MySQL server, with emailed reports and an on-demand JSON endpoint. | Node.js, MySQL |
+
+## What I work with
+
+**Backend:** Node.js, Express, Python, FastAPI, REST APIs, PostgreSQL, MySQL, MongoDB, Redis
+**Frontend:** React, Next.js
+**Infra:** AWS (S3, EC2), Google Cloud Storage, Docker, Nginx, GitHub Actions
+**AI:** LLM integration (OpenAI, Anthropic, Gemini, Hugging Face, Ollama), Claude Code and agentic workflows, Whisper/Piper speech
+**Security:** authentication and authorization, role-based access control, encryption
+
+Most of my professional code lives in private company repositories. The repos above are my own projects or public showcase editions written for this profile.
