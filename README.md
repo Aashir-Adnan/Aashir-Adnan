@@ -14,7 +14,7 @@ Based in Canton, Michigan · US citizen · open to software, AI and application-
 | [**meeting-to-delivery**](https://github.com/Aashir-Adnan/meeting-to-delivery) | A Discord bot records a meeting, transcribes it, and turns it into tasks; once approved, they sync to GitHub issues. The real meeting-workflow code from the UBS framework, trimmed to just what it needs. | Node.js, Express, discord.js, MariaDB, Claude Code CLI |
 | [**ubs-framework-docs**](https://github.com/Aashir-Adnan/ubs-framework-docs) | Design write-up and runnable demo of UBS, a configuration-driven Node.js platform: endpoints declared as data, one middleware pipeline for auth, permissions, validation and multi-tenant scoping. | Node.js, tests, CI |
 | [**config-driven-api-framework**](https://github.com/Aashir-Adnan/config-driven-api-framework) | A configuration-driven REST API framework distilled from the same UBS core: declare an endpoint as data, get auth, validation, versioning and pagination for free. | Node.js, Express, SQLite, JWT, tests, CI |
-| [**devhouse-discord-bot**](https://github.com/Aashir-Adnan/devhouse-discord-bot) | Operations bot for a software team's Discord: OTP verification, role-based access, ticket channels, meetings. Token-free demo included. | Node.js, discord.js, tests, CI |
+| [**devhouse-discord-bot**](https://github.com/Aashir-Adnan/Granjur-Discord-Bot) | Operations bot for a software team's Discord: OTP verification, role-based access, ticket channels, meetings. Token-free demo included. | Node.js, discord.js, tests, CI |
 
 ## What I work with
 
